@@ -29,3 +29,16 @@ No external installations required.
 ## 📄 License
 
 This project is free to use, share, and modify for personal or educational purposes.
+
+
+<img width="524" alt="Screenshot 2025-05-03 at 17 46 23" src="https://github.com/user-attachments/assets/0663382d-8ac0-432e-957c-159f5172a7b4" />
+
+
+<img width="525" alt="Screenshot 2025-05-03 at 17 46 34" src="https://github.com/user-attachments/assets/c5ac6c22-7c05-48d8-bf34-a0da0a3988d7" />
+
+
+<img width="522" alt="Screenshot 2025-05-03 at 17 47 12" src="https://github.com/user-attachments/assets/923d544d-68c0-4034-b55a-4dfb401cfb26" />
+
+<img width="522" alt="Screenshot 2025-05-03 at 17 47 33" src="https://github.com/user-attachments/assets/39fea608-2997-4b23-9af7-4ac3fa7b1f8a" />
+
+
